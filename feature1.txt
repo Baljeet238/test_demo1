@@ -1,0 +1,6 @@
+<head>
+<body>
+<p>This is an Feature file 1<p>
+<p>This is used for telling various features<p>
+<body>
+<head>
