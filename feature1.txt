@@ -1,6 +1,6 @@
 <head>
 <body>
 <p>This is an Feature file 1<p>
-<p>This is used for define feature<p>
+<p>This is an  feature2 fileeee...<p>
 <body>
 <head>
